@@ -1,0 +1,17 @@
+﻿Build started 25/04/2013 15:21:21.
+     1>Project "C:\Users\Romero\Documents\Romero\CIn\PG\Projetos\Projeto 1\Template2D\Template2D\Template2D\Template2D.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Template2D.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Template2D.vcxproj -> C:\Users\Romero\Documents\Romero\CIn\PG\Projetos\Projeto 1\Template2D\Template2D\Template2D\bin\Template2D.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\Template2D.unsuccessfulbuild".
+         Touching "Release\Template2D.lastbuildstate".
+     1>Done Building Project "C:\Users\Romero\Documents\Romero\CIn\PG\Projetos\Projeto 1\Template2D\Template2D\Template2D\Template2D.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
