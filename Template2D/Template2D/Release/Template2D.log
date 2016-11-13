@@ -1,17 +1,9 @@
-﻿Build started 25/04/2013 15:21:21.
-     1>Project "C:\Users\Romero\Documents\Romero\CIn\PG\Projetos\Projeto 1\Template2D\Template2D\Template2D\Template2D.vcxproj" on node 2 (build target(s)).
-     1>InitializeBuildStatus:
-         Creating "Release\Template2D.unsuccessfulbuild" because "AlwaysCreate" was specified.
-       ClCompile:
-         All outputs are up-to-date.
-       Link:
-         All outputs are up-to-date.
-         Template2D.vcxproj -> C:\Users\Romero\Documents\Romero\CIn\PG\Projetos\Projeto 1\Template2D\Template2D\Template2D\bin\Template2D.exe
-       FinalizeBuildStatus:
-         Deleting file "Release\Template2D.unsuccessfulbuild".
-         Touching "Release\Template2D.lastbuildstate".
-     1>Done Building Project "C:\Users\Romero\Documents\Romero\CIn\PG\Projetos\Projeto 1\Template2D\Template2D\Template2D\Template2D.vcxproj" (build target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:00.05
+﻿  Template2D.cpp
+src\Template2D.cpp(167): warning C4101: 'aux': unreferenced local variable
+  Generating code
+  2 of 254 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Template2D.vcxproj -> C:\Users\Marcos\Documents\Documentos\UFPE 2015\PG\Template2D\Projeto\Projeto-1-PG\Template2D\Template2D\bin\Template2D.exe
+  Template2D.vcxproj -> C:\Users\Marcos\Documents\Documentos\UFPE 2015\PG\Template2D\Projeto\Projeto-1-PG\Template2D\Template2D\bin\Template2D.pdb (Full PDB)
